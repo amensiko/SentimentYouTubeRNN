@@ -1,0 +1,7 @@
+tensorflow
+np
+pandas
+pydot_ng
+graphviz
+ggplot
+keras
